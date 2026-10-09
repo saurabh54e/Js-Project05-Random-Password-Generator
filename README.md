@@ -1,6 +1,6 @@
-🚀 Day 5/30 – Random Password Generator
+🚀 Project 5 of my 30 JavaScript Projects Challenge. – Random Password Generator
 
-Continuing my 30 Days JavaScript Challenge, I built a modern Password Generator Web App using Vanilla JavaScript.
+Continuing my 30 Projects JavaScript Challenge, I built a modern Password Generator Web App using Vanilla JavaScript.
 
 ## Tech Used:
 • HTML
@@ -30,7 +30,7 @@ Continuing my 30 Days JavaScript Challenge, I built a modern Password Generator 
 • Save password history
 
 ## live 
-https://saurabh54e.github.io/Js-Day05-Random-Password-Generator/
+https://saurabh54e.github.io/Js-Project05-Random-Password-Generator/
 
 
 ## Author 
