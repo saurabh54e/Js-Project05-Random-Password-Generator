@@ -51,13 +51,13 @@ The application uses JavaScript functions and event-driven programming to genera
 
 ## Live Demo
 
-[View Live Demo](https://saurabh54e.github.io/Js-Project05-Random-Password-Generator/)
+(https://saurabh54e.github.io/Js-Project05-Random-Password-Generator/)
 
 ---
 
 ## GitHub Repository
 
-[View GitHub Repository](https://github.com/saurabh54e/Js-Project05-Random-Password-Generator/)
+(https://github.com/saurabh54e/Js-Project05-Random-Password-Generator/)
 
 ---
 
